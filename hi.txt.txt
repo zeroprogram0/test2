@@ -6,6 +6,7 @@ s
 a
 s
 a
+<<<<<<< HEAD
 skasakksakksakd
 asd
 sa
@@ -25,3 +26,7 @@ sd
 as
 d
 a
+=======
+skasakksakksa
+cow cow
+>>>>>>> e00209f8415dc3e87cce37e5a07f36d20f4c3522
